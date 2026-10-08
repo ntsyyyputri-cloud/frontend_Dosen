@@ -1,4 +1,4 @@
-import  DataKelas  from "./components/profil";
+import  DataKelas  from "./profil/page";
 
 export default function KelasPage() {
   return <DataKelas />;

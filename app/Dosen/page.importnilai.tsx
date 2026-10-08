@@ -1,4 +1,4 @@
-import  DataKelas  from "./components/importnilai";
+import  DataKelas  from "./importnilai/page";
 
 export default function KelasPage() {
   return <DataKelas />;

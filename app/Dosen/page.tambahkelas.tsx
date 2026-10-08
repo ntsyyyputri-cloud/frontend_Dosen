@@ -1,4 +1,4 @@
-import  DataKelas  from "./components/tambahkelas";
+import  DataKelas  from "./tambahkelas/page";
 
 export default function KelasPage() {
   return <DataKelas />;
